@@ -1,3 +1,3 @@
 # personal-website
 
--Fully Responsive Website.
+This is my fully responsive website, available at www.nishantp.com
